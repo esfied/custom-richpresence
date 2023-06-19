@@ -26,4 +26,4 @@ The `rpc.py` file used in this project is obtained from the [niveshbirangal/disc
 
 9. Feel free to start Discord and see your activity by starting your chosen executable :)
 
-As of now, it only works with one rich presence at a time.
+As of now, it only works with a single choice of rich presence.
