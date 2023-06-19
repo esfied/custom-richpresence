@@ -25,3 +25,5 @@ The `rpc.py` file used in this project is obtained from the [niveshbirangal/disc
 8. To automatically run at startup, go to System Preferences > Users & Groups > Login Items, and add `start_rich_presence.sh`, then restart your device.
 
 9. Feel free to start Discord and see your activity by starting your chosen executable :)
+
+As of now, it only works with one rich presence at a time.
