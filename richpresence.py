@@ -34,7 +34,7 @@ while True:
 
     activity = {
         "state": state,
-        "details": "(Finding Majima in the karaoke bar.)",  # Custom detail, comment if you don't want it to be included
+        "details": "Go forth, young boy, and you’ll become a legend",  # Custom detail, comment if you don't want it to be included
         "assets": {
             "large_image": "imagename"  # Name of the image used for the icon
         }
