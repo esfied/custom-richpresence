@@ -1,7 +1,7 @@
 # custom-richpresence
 Personal Discord activity status for apps that doesn't support Rich Presence / Lacks image. (Mac & Linux)
 
-<img width="307" alt="Screen Shot 2023-06-19 at 10 47 41 PM" src="https://github.com/esfied/custom-richpresence/assets/136987425/fddaf205-199c-490b-8e9c-3848cdd3c07b">
+<img width="308" alt="Screen Shot 2023-06-19 at 10 52 07 PM" src="https://github.com/esfied/custom-richpresence/assets/136987425/1cfe5be5-9879-4772-b312-7461981be9a4">
 
 ## Attribution
 The `rpc.py` file used in this project is obtained from the [niveshbirangal/discord-rpc](https://github.com/niveshbirangal/discord-rpc) repository.
