@@ -3,7 +3,7 @@
 while true; do
     if pgrep -f "/Applications/nameofapp.app" > /dev/null; then  # Path of the software you'll use to execute Rich Presence
         if ! pgrep -f "richpresence.py" > /dev/null; then
-            cd /Users/nameofuser/custom-richpresence  # Location of the folder
+            cd /Users/nameofuser/custom-richpresence  # Location of the cloned repository
             python3 richpresence.py &
         fi
     else
